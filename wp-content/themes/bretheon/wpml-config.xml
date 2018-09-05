@@ -1,0 +1,19 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">offer</custom-type>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">slide</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio-types</taxonomy>
+	</taxonomies>
+	<admin-texts>
+        <key name="bretheon">     
+            <key name="blog-readmore" />
+            <key name="portfolio-page" />
+            <key name="telephone-number" />
+            <key name="header-email" />
+            <key name="copyright" />
+        </key>
+    </admin-texts>
+</wpml-config>
